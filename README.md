@@ -68,7 +68,7 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
 
   <h4> F. Perancangan <i>Dashboard</i></h4>
   <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dashboard<i> yang efektif didesain dengan penuh cermat dan mempertimbangkan peran dari pengguna dalam pengambilan keputusan. Haryanti (2008) menjabarkan mengenai metodologi pembangunan dasbor terdiri atas 7 tahap, meliputi identifikasi kebutuhan, perencanaan, perancangan prototype, <i>review prototype</i>, implementasi, <i>deployment</i>, dan <i>maintenance</i>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dashboard</i> yang efektif didesain dengan penuh cermat dan mempertimbangkan peran dari pengguna dalam pengambilan keputusan. Haryanti (2008) menjabarkan mengenai metodologi pembangunan dasbor terdiri atas 7 tahap, meliputi identifikasi kebutuhan, perencanaan, perancangan prototype, <i>review prototype</i>, implementasi, <i>deployment</i>, dan <i>maintenance</i>.
 </p>
   
   <h4> G. Evaluasi Sistem</h4>
