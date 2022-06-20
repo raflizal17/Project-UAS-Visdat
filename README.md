@@ -1,5 +1,5 @@
 <h1 align="center">
-  Pembangunan Dashboard Informasi Menggunakan <i>Library Flexdashboard R</i> (Studi Kasus: Profil Kemiskinan di Indonesia Tahun 2021)
+  Pembangunan <i>Dashboard</i> Informasi Menggunakan <i>Library Flexdashboard R</i> (Studi Kasus: Profil Kemiskinan di Indonesia Tahun 2021)
 </h1>
 
 <h2>Ringkasan Penelitian</h2>
@@ -49,7 +49,7 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
   </p>
   
   <h4> E. <i>Design Dashboard</i></h4>
-  <p><i>Design Dashboard</i> dibuat menggunakan aplikasi <i>Figma</i>. Berikut ini tampilan <i>design dashboard</i> tiap halaman</p>
+  <p><i>Design Dashboard</i> dibuat menggunakan aplikasi <i>Figma</i>. Berikut ini tampilan <i>design dashboard</i> tiap halaman.</p>
   <ol>
   <li><h5><i>Design Dashboard</i> Halaman Utama (Lingkup Nasional)</h5></li>
   <img src="Images/Design_Dashboard_1.png"> </img>
