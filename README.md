@@ -114,7 +114,9 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dashboard</i> yang telah dibuat perlu dievaluasi kepada pengguna (<i>user</i>) agar dapat dinilai secara objektif. Penilaian evaluasi menggunakan pengukuran <i>System Usability Scale</i> (SUS). Ketika SUS digunakan, responden akan diminta untuk menilai sepuluh item pertanyaan dengan memilih salah satu jawaban dari lima tanggapan berkisar dari sangat setuju hingga sangat tidak setuju. Survei telah dilakukan untuk memperoleh nilai SUS untuk <i>dashboard</i> informasi profil kemiskinan Indonesia tahun 2021. Periode survei dilakukan selama 3 hari, yaitu 18-20 Juni 2022. Dari survei tersebut diperoleh jumlah responden sebanyak 89 orang. Gambar berikut merupakan visualisasi yang menggambarkan karakteristik responden berdasarkan kelompok pengguna yang mengikuti survei evaluasi <i>dashboard</i> informasi profil kemiskinan Indonesia tahun 2021.
 </p>
+<p align="center">
 <img src="Images/proporsi_responden.png"> </img>
+</p>
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responden yang menjadi sasaran survei merupakan kelompok pengguna dari kalangan masyarakat umum dan kelompok mahasiswa STIS. Jumlah responden dari kalangan masyarakat umum yaitu 39 orang, sedangkan responden dari kelompok mahasiswa STIS yaitu 50 orang. Jumlah responden tersebut sudah dirasa cukup untuk digunakan sebagai penilaian evaluasi pada <i>dashboard</i>. Setelah itu dilakukan penghitungan skor dengan aturan sebagai berikut:
@@ -122,15 +124,51 @@ Q_odd=(scale position-1)×2.5
 Q_even=(5-scale position)×2.5
 Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor pada item pertanyaan tersebut akan semakin besar. Sedangkan pada pertanyaan bernomor genap, semakin tinggi nilai scale position, maka skor pada item pertanyaan tersebut akan semakin kecil. Berdasarkan rumus sebelumnya, maka diperoleh distribusi frekuensi skor-skor dari 89 responden yang ditampilkan pada histogram.  
 </p>
+<p align="center">
 <img src="Images/histogram_skor_sus.png"> </img>
+</p>
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dari histogram di atas, distribusi skor dari sebagian besar responden cenderung berada di atas rata-rata. Adapun rata-rata skor yang dihasilkan adalah sebesar 76,88, dengan nilai minimum sebesar 37,5 dan nilai maksimum sebesar 100. Rata-rata skor SUS menunjukkan tingkat penerimaan pengguna terhadap sistem (dashboard). Skor SUS 76,88 masuk ke dalam kategori acceptable karena bernilai lebih dari 70, kategori adjective berupa excellent, dan kategori grade B. Kategori penilaian skor SUS dijelaskan pada gambar di bawah ini.
 </p>
+<p align="center">
 <img src="Images/kategori_skor_sus.jpg"> </img>
+</p>  
   
- <h3>5. Kesimpulan dan Saran</h3>
+<h3>5. Kesimpulan dan Saran</h3>
+  <h4>A. Kesimpulan</h4>
+  <ol>
+  <li>Informasi data indikator kemiskinan beserta visualisasi yang ditampilkan ke dalam dashboard meliputi:</li>
+    <ul>
+      <li>Jumlah penduduk miskin Indonesia tahun 2011-2021 (<li>line chart</li>).</li>
+      <li>Persentase penduduk miskin Indonesia pada bulan September 2021 (<i>simple text chart</i>).</li>
+      <li>Indeks kedalaman kemiskinan Indonesia tahun 2011-2021 (<i>line chart</i>).</li>
+      <li>Garis kemiskinan Indonesia menurut kebutuhan pokok (makanan dan bukan makanan) pada tahun 2011-2021 (<i>line chart</i>).</li>
+      <li>Indeks keparahan kemiskinan Indonesia tahun 2011-2021 (<i>line chart</i>).</li>
+      <li>Indeks gini Indonesia tahun 2011-2021 (<i>line chart</i>).</li>
+      <li>Persentase jumlah penduduk miskin Indonesia menurut klasifikasi wilayah (perkotaan dan perdesaan) pada bulan September2021 (<i>pie chart</i>).</li>
+      <li>Persentase angka garis kemiskinan Indonesia menurut klasifikasi wilayah (perkotaan dan perdesaan) pada bulan September 2021 (<i>pie chart</i>).</li>
+      <li>Jumlah penduduk miskin menurut provinsi di Indonesia (<i>horizontal bar chart</i> dan peta tematik interaktif).</li>
+      <li>Indeks kedalaman kemiskinan berdasarkan klasifikasi wilayah menurut provinsi di Indonesia (<i>stacked horizontal bar chart</i>).</li>
+      <li>Indeks keparahan kemiskinan berdasarkan klasifikasi wilayah menurut provinsi di Indonesia (<i>stacked horizontal bar chart</i>).</li>
+      <li>Indeks gini berdasarkan klasifikasi wilayah menurut provinsi di Indonesia (<i>stacked horizontal bar chart</i>).</li>
+      <li>Persentase penduduk miskin menurut provinsi di Indonesia tahun 2011-2021 (tabular dan <i>line chart</i>).</li>
+    </ul>
+  <li>Dashboard informasi profil kemiskinan di Indonesia tahun 2021 berhasil dibuat sesuai sesuai desain melalui beberapa tahapan perancangan dan diakhiri dengan mempublikasikan pada server Github pribadi. Halaman dashboard dapat diakses melalui tautan atau link berikut ini: https://raflizal17.github.io/Project-UAS-Visdat/</li>
+  <li>Berdasarkan hasil survei pengujian evaluasi pada dashboard menggunakan pengukuran System Usability Scale (SUS) diperoleh nilai rata-rata skor SUS sebesar 76,88. Skor SUS tersebut masuk ke dalam kategori <i>acceptable, excellent</i>, dan <i>grade</i> B.</li>
+  </p>
   
+  <h4>B. Saran </h4>
+  <p>
+Saran terhadap penelitian tugas proyek ini didasarkan pada jawaban dari beberapa responden yang dianggap masuk akal dan diterima oleh penulis berdasarkan hasil survei evaluasi dashboard sebelumnya. Berikut ini beberapa saran yang diajukan oleh responden dan dapat dipertimbangkan untuk perbaikan pada dashboard ke depannya.
+  <ol>
+   <li>Gaya <i>font</i> kurang menarik, terutama di bagian header.</li>
+   <li>Memberikan kotak penanda pada navbar utama agar pengguna bisa mengetahui sedang berada pada halaman <i>dashboard</i> yang mana.</li>
+   <li>Visualisasi peta sebaiknya diberikan fitur <i>download</i>.</li>
+   <li>Ilustrasi dashboard lebih dikembangkan lagi agar <i>easy to use</i>.</li>
+   <li>Tampilan <i>dashboard</i> lebih diakomodasikan secara responsif untuk pengguna <i>smartphone</i>.</li>
+  </ol>
+ </p>
   
 
     
