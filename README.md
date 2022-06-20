@@ -46,10 +46,29 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
     <li>Visualisasi Peta Tematik Interactive (<i>Interactive Choropleth Map</i>)</li>
   </ul>
   </p>
+  
   <h4> E. <i>Design Dashboard</i></h4>
-  <p><i>Design Dashboard halaman utama</i> dibuat menggunakan aplikasi <i>Figma</i> </p>
+  <p><i>Design Dashboard</i> dibuat menggunakan aplikasi <i>Figma</i>. Berikut ini tampilan <i>design dashboard</i> tiap halaman</p>
+  <ol>
+  <li><h5><i>Design Dashboard</i> Halaman Utama (Lingkup Nasional)</h5></li>
   <img src="Images/Design_Dashboard_1.png"> </img>
+  
+  <li><h5><i>Design Dashboard</i> Halaman Kedua (Lingkup Provinsi)</h5></li>
+  <img src="Images/Design_Dashboard_2.png"> </img>
+  
+  <li><h5><i>Design Dashboard</i> Halaman Pencarian</h5></li>
+  <img src="Images/Design_Dashboard_3.png"> </img>
+  
+  <li><h5><i>Design Dashboard</i> Halaman Informasi</h5></li>
+  <img src="Images/Design_Dashboard_4.png"> </img>
+  </ol>
+
   <h4> F. Perancangan <i>Dashboard</i></h4>
+  <p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dashboard yang efektif didesain dengan penuh cermat dan mempertimbangkan peran dari pengguna dalam pengambilan keputusan. Haryanti (2008) menjabarkan mengenai metodologi pembangunan dasbor terdiri atas 7 tahap, meliputi identifikasi kebutuhan, perencanaan, perancangan prototype, review prototype, implementasi, deployment, dan maintenance
+</p>
+  
+  
   <h4> G. Evaluasi Sistem</h4>
   <h4> H. Penyusunan Laporan</h4>
     
