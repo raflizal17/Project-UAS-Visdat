@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Tautan dalam mengakses <i>dashboard</i>: https://raflizal17.github.io/Project-UAS-Visdat/ </h3>
-
+<br>
 <h2>Ringkasan Penelitian</h2>
 <h3>1. Latar Belakang </h3>
   <p align="justify"> 
@@ -136,11 +136,11 @@ Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor 
 </p>  
   
 <h3>5. Kesimpulan dan Saran</h3>
-  <h4>A. Kesimpulan</h4>
+<h4>A. Kesimpulan</h4>
   <ol>
   <li>Informasi data indikator kemiskinan beserta visualisasi yang ditampilkan ke dalam dashboard meliputi:</li>
     <ul>
-      <li>Jumlah penduduk miskin Indonesia tahun 2011-2021 (<li>line chart</li>).</li>
+      <li>Jumlah penduduk miskin Indonesia tahun 2011-2021 (<i>line chart</i>).</li>
       <li>Persentase penduduk miskin Indonesia pada bulan September 2021 (<i>simple text chart</i>).</li>
       <li>Indeks kedalaman kemiskinan Indonesia tahun 2011-2021 (<i>line chart</i>).</li>
       <li>Garis kemiskinan Indonesia menurut kebutuhan pokok (makanan dan bukan makanan) pada tahun 2011-2021 (<i>line chart</i>).</li>
@@ -156,18 +156,18 @@ Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor 
     </ul>
   <li>Dashboard informasi profil kemiskinan di Indonesia tahun 2021 berhasil dibuat sesuai sesuai desain melalui beberapa tahapan perancangan dan diakhiri dengan mempublikasikan pada server Github pribadi. Halaman dashboard dapat diakses melalui tautan atau link berikut ini: https://raflizal17.github.io/Project-UAS-Visdat/</li>
   <li>Berdasarkan hasil survei pengujian evaluasi pada dashboard menggunakan pengukuran System Usability Scale (SUS) diperoleh nilai rata-rata skor SUS sebesar 76,88. Skor SUS tersebut masuk ke dalam kategori <i>acceptable, excellent</i>, dan <i>grade</i> B.</li>
-  </p>
+  </ol>
   
-  <h4>B. Saran </h4>
-  <p>
-Saran terhadap penelitian tugas proyek ini didasarkan pada jawaban dari beberapa responden yang dianggap masuk akal dan diterima oleh penulis berdasarkan hasil survei evaluasi dashboard sebelumnya. Berikut ini beberapa saran yang diajukan oleh responden dan dapat dipertimbangkan untuk perbaikan pada dashboard ke depannya.
-  <ol>
+ <h4>B. Saran </h4>
+  <p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saran terhadap penelitian tugas proyek ini didasarkan pada jawaban dari beberapa responden yang dianggap masuk akal dan diterima oleh penulis berdasarkan hasil survei evaluasi <i>dashboard</i> sebelumnya. Berikut ini beberapa saran yang diajukan oleh responden dan dapat dipertimbangkan untuk dilakukan perbaikan pada <i>dashboard</i> ke depannya.
+  <ul>
    <li>Gaya <i>font</i> kurang menarik, terutama di bagian header.</li>
    <li>Memberikan kotak penanda pada navbar utama agar pengguna bisa mengetahui sedang berada pada halaman <i>dashboard</i> yang mana.</li>
    <li>Visualisasi peta sebaiknya diberikan fitur <i>download</i>.</li>
    <li>Ilustrasi dashboard lebih dikembangkan lagi agar <i>easy to use</i>.</li>
    <li>Tampilan <i>dashboard</i> lebih diakomodasikan secara responsif untuk pengguna <i>smartphone</i>.</li>
-  </ol>
+  </ul>
  </p>
   
 
