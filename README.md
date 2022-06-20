@@ -44,7 +44,7 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
     <li>Visualisasi <i>Pie Chart</i>
     <li>Visualisasi <i>Line Chart</i></li>
     <li>Visualisasi Tabular (<i>Data Table</i>)</li>
-    <li>Visualisasi Peta Tematik Interactive (<i>Interactive Choropleth Map</i>)</li>
+    <li>Visualisasi Peta Tematik Interaktif (<i>Interactive Choropleth Map</i>)</li>
   </ul>
   </p>
   
@@ -66,11 +66,13 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
 
   <h4> F. Perancangan <i>Dashboard</i></h4>
   <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dashboard yang efektif didesain dengan penuh cermat dan mempertimbangkan peran dari pengguna dalam pengambilan keputusan. Haryanti (2008) menjabarkan mengenai metodologi pembangunan dasbor terdiri atas 7 tahap, meliputi identifikasi kebutuhan, perencanaan, perancangan prototype, review prototype, implementasi, deployment, dan maintenance
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dashboard<i> yang efektif didesain dengan penuh cermat dan mempertimbangkan peran dari pengguna dalam pengambilan keputusan. Haryanti (2008) menjabarkan mengenai metodologi pembangunan dasbor terdiri atas 7 tahap, meliputi identifikasi kebutuhan, perencanaan, perancangan prototype, <i>review prototype</i>, implementasi, <i>deployment</i>, dan <i>maintenance</i>.
 </p>
   
-  
   <h4> G. Evaluasi Sistem</h4>
+  <p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evaluasi sistem yang digunakan menggunakan pengukuran dengan <i>System Usability Scale (SUS)</i>. Pengujian SUS dilakukan untuk mengukur tingkat kegunaan suatu aplikasi. SUS dilakukan dengan mengisi kuesioner yang terdiri atas 10 item pernyataan mengenai sistem yang dibangun. Pernyataan diukur menggunakan skala likert 1-5 dengan definisi sangat tidak setuju hingga sangat setuju. Dalam konteks ini, aplikasi yang akan dievaluasi berupa dashboard informasi profil kemiskinan Indonesia tahun 2021.
+  </p>
   <h4> H. Penyusunan Laporan</h4>
     
     
