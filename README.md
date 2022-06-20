@@ -47,6 +47,8 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
   </ul>
   </p>
   <h4> E. <i>Design Dashboard</i></h4>
+  <p><i>Design Dashboard halaman utama</i> dibuat menggunakan aplikasi <i>Figma</i> </p>
+  <img src="Images/Design_Dashboard.png"> </img>
   <h4> F. Perancangan <i>Dashboard</i></h4>
   <h4> G. Evaluasi Sistem</h4>
   <h4> H. Penyusunan Laporan</h4>
