@@ -73,9 +73,20 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
   
   <h4> G. Evaluasi Sistem</h4>
   <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evaluasi sistem yang digunakan menggunakan pengukuran dengan <i>System Usability Scale (SUS)</i>. Pengujian SUS dilakukan untuk mengukur tingkat kegunaan suatu aplikasi. SUS dilakukan dengan mengisi kuesioner yang terdiri atas 10 item pernyataan mengenai sistem yang dibangun. Pernyataan diukur menggunakan skala likert 1-5 dengan definisi sangat tidak setuju hingga sangat setuju. Dalam konteks ini, aplikasi yang akan dievaluasi berupa dashboard informasi profil kemiskinan Indonesia tahun 2021.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evaluasi sistem yang digunakan menggunakan pengukuran dengan <i>System Usability Scale (SUS)</i>. Pengujian SUS dilakukan untuk mengukur tingkat kegunaan suatu aplikasi. SUS dilakukan dengan mengisi kuesioner yang terdiri atas 10 item pernyataan mengenai sistem yang dibangun. Pernyataan diukur menggunakan skala likert 1-5 dengan definisi sangat tidak setuju hingga sangat setuju. Dalam konteks ini, aplikasi yang akan dievaluasi berupa <i>dashboard</i> informasi profil kemiskinan Indonesia tahun 2021.
   </p>
+  
   <h4> H. Penyusunan Laporan</h4>
+  <p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tahap akhir dalam penelitian ini adalah melakukan penyusunan laporan. Laporan ini akan dibuat dalam format IEEE dengan menyesuaikan isi yang terdapat pada proposal penelitian dan hasil yang diperoleh dari pembuatan dashboard informasi mengenai profil kemiskinan di Indonesia tahun 2021 hingga proses publikasi ke dalam web server telah selesai dilakukan. 
+  </p>
+  
+  <h3>4. Hasil dan Pembahasan</h3>
+  
+  <h3>5. Kesimpulan dan Saran</h3>
+  
+  
+
     
     
     
