@@ -82,7 +82,7 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
   </p>
   
   <h3>4. Hasil dan Pembahasan</h3>
-  <h4>A. Hasil Tampilan <i>Dashboard</i> dan Visualisasi Data</h4></li>
+  <h4>A. Hasil Tampilan <i>Dashboard</i> dan Visualisasi Data</h4>
     <ol type="1">
       <li><h5>Tampilan <i>Dashboard</i> Halaman Utama pada Sub-Menu 1</h5></li>
       <img src="Images/Dashboard_HalamanUtama.png"> </img>
@@ -110,13 +110,14 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
       <img src="Images/Dashboard_HalamanInformasi.png"> </img>
     </ol>
     
- <h4>B. Evaluasi <i>Dashboard</i></h4></li>
+ <h4>B. Evaluasi <i>Dashboard</i></h4>
 <p align="justify"> 
-<i>Dashboard</i> yang telah dibuat perlu dievaluasi kepada pengguna (<i>user</i>) agar dapat dinilai secara objektif. Penilaian evaluasi menggunakan pengukuran <i>System Usability Scale</i> (SUS). Ketika SUS digunakan, responden akan diminta untuk menilai sepuluh item pertanyaan dengan memilih salah satu jawaban dari lima tanggapan berkisar dari sangat setuju hingga sangat tidak setuju. Survei telah dilakukan untuk memperoleh nilai SUS untuk <i>dashboard</i> informasi profil kemiskinan Indonesia tahun 2021. Periode survei dilakukan selama 3 hari, yaitu 18-20 Juni 2022. Dari survei tersebut diperoleh jumlah responden sebanyak 89 orang. Gambar berikut merupakan visualisasi yang menggambarkan karakteristik responden berdasarkan kelompok pengguna yang mengikuti survei evaluasi <i>dashboard</i> informasi profil kemiskinan Indonesia tahun 2021.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Dashboard</i> yang telah dibuat perlu dievaluasi kepada pengguna (<i>user</i>) agar dapat dinilai secara objektif. Penilaian evaluasi menggunakan pengukuran <i>System Usability Scale</i> (SUS). Ketika SUS digunakan, responden akan diminta untuk menilai sepuluh item pertanyaan dengan memilih salah satu jawaban dari lima tanggapan berkisar dari sangat setuju hingga sangat tidak setuju. Survei telah dilakukan untuk memperoleh nilai SUS untuk <i>dashboard</i> informasi profil kemiskinan Indonesia tahun 2021. Periode survei dilakukan selama 3 hari, yaitu 18-20 Juni 2022. Dari survei tersebut diperoleh jumlah responden sebanyak 89 orang. Gambar berikut merupakan visualisasi yang menggambarkan karakteristik responden berdasarkan kelompok pengguna yang mengikuti survei evaluasi <i>dashboard</i> informasi profil kemiskinan Indonesia tahun 2021.
 </p>
 <img src="Images/proporsi_responden.png"> </img>
+
 <p align="justify">
-Responden yang menjadi sasaran survei merupakan kelompok pengguna dari kalangan masyarakat umum dan kelompok mahasiswa STIS. Jumlah responden dari kalangan masyarakat umum yaitu 39 orang, sedangkan responden dari kelompok mahasiswa STIS yaitu 50 orang. Jumlah responden tersebut sudah dirasa cukup untuk digunakan sebagai penilaian evaluasi pada <i>dashboard</i>. Setelah itu dilakukan penghitungan skor dengan aturan sebagai berikut:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responden yang menjadi sasaran survei merupakan kelompok pengguna dari kalangan masyarakat umum dan kelompok mahasiswa STIS. Jumlah responden dari kalangan masyarakat umum yaitu 39 orang, sedangkan responden dari kelompok mahasiswa STIS yaitu 50 orang. Jumlah responden tersebut sudah dirasa cukup untuk digunakan sebagai penilaian evaluasi pada <i>dashboard</i>. Setelah itu dilakukan penghitungan skor dengan aturan sebagai berikut:
 Q_odd=(scale position-1)×2.5
 Q_even=(5-scale position)×2.5
 Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor pada item pertanyaan tersebut akan semakin besar. Sedangkan pada pertanyaan bernomor genap, semakin tinggi nilai scale position, maka skor pada item pertanyaan tersebut akan semakin kecil. Berdasarkan rumus sebelumnya, maka diperoleh distribusi frekuensi skor-skor dari 89 responden yang ditampilkan pada histogram.  
@@ -124,7 +125,7 @@ Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor 
 <img src="Images/histogram_skor_sus.png"> </img>
 
 <p align="justify">
-Dari histogram di atas, distribusi skor dari sebagian besar responden cenderung berada di atas rata-rata. Adapun rata-rata skor yang dihasilkan adalah sebesar 76,88, dengan nilai minimum sebesar 37,5 dan nilai maksimum sebesar 100. Rata-rata skor SUS menunjukkan tingkat penerimaan pengguna terhadap sistem (dashboard). Skor SUS 76,88 masuk ke dalam kategori acceptable karena bernilai lebih dari 70, kategori adjective berupa excellent, dan kategori grade B. Kategori penilaian skor SUS dijelaskan pada gambar di bawah ini.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dari histogram di atas, distribusi skor dari sebagian besar responden cenderung berada di atas rata-rata. Adapun rata-rata skor yang dihasilkan adalah sebesar 76,88, dengan nilai minimum sebesar 37,5 dan nilai maksimum sebesar 100. Rata-rata skor SUS menunjukkan tingkat penerimaan pengguna terhadap sistem (dashboard). Skor SUS 76,88 masuk ke dalam kategori acceptable karena bernilai lebih dari 70, kategori adjective berupa excellent, dan kategori grade B. Kategori penilaian skor SUS dijelaskan pada gambar di bawah ini.
 </p>
 <img src="Images/kategori_skor_sus.jpg"> </img>
   
