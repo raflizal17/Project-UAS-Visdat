@@ -2,6 +2,8 @@
   Pembangunan <i>Dashboard</i> Informasi Menggunakan <i>Library Flexdashboard R</i> (Studi Kasus: Profil Kemiskinan di Indonesia Tahun 2021)
 </h1>
 
+<h3 align="center">Tautan dalam mengakses <i>dashboard</i>: https://raflizal17.github.io/Project-UAS-Visdat/ </h3>
+
 <h2>Ringkasan Penelitian</h2>
 <h3>1. Latar Belakang </h3>
   <p align="justify"> 
