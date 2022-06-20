@@ -22,7 +22,8 @@
   <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data yang akan digunakan merupakan indikator kemiskinan yang dirilis oleh BPS yang terdiri atas 5 variabel meliputi:
   <ol>
-    <li>Variabel Jumlah dan Persentase Penduduk Miskin</li>
+    <li>Variabel Jumlah Penduduk Miskin</li>
+    <li>Variabel Persentase Penduduk Miskin</li>
     <li>Variabel Garis Kemiskinan</li>
     <li>Variabel Indeks Kedalaman Kemiskinan</li>
     <li>Variabel Indeks Keparahan Kemiskinan</li>
