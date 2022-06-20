@@ -82,6 +82,8 @@ Kelima variabel data yang dikumpulkan dari tahun 2011 hingga 2021, baik dalam li
   </p>
   
   <h3>4. Hasil dan Pembahasan</h3>
+  <h4>Hasil Tampilan <i>Dashboard</i> dan Visualisasi Data</h4>
+  <h4>Evaluasi <i>Dashboard</i>
   
   <h3>5. Kesimpulan dan Saran</h3>
   
