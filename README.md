@@ -126,7 +126,7 @@ Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor 
 <p align="justify">
 Dari histogram di atas, distribusi skor dari sebagian besar responden cenderung berada di atas rata-rata. Adapun rata-rata skor yang dihasilkan adalah sebesar 76,88, dengan nilai minimum sebesar 37,5 dan nilai maksimum sebesar 100. Rata-rata skor SUS menunjukkan tingkat penerimaan pengguna terhadap sistem (dashboard). Skor SUS 76,88 masuk ke dalam kategori acceptable karena bernilai lebih dari 70, kategori adjective berupa excellent, dan kategori grade B. Kategori penilaian skor SUS dijelaskan pada gambar di bawah ini.
 </p>
-<img src="Images/kategori_skor_sus.png"> </img>
+<img src="Images/kategori_skor_sus.jpg"> </img>
   
  <h3>5. Kesimpulan dan Saran</h3>
   
