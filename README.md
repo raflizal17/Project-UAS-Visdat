@@ -16,7 +16,7 @@
 <h3>3. Metode Penelitian</h3>
   <h4> A. Studi Literatur </h4>
   <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tahap awal penelitian ini adalah melakukan studi literatur dari penelitian lain yang berkenaan dengan pembangunan dashboard visualisasi data dan informasi menggunakan <i>Library Flexdashboard R</i>. Studi literatur penelitian ini diperoleh melalui jurnal dan artikel ilmiah yang membahas tentang teknik visualisasi data dan pembuatan dasbor informasi.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tahap awal penelitian ini adalah melakukan studi literatur dari penelitian lain yang berkenaan dengan pembangunan <i>dashboard</i> visualisasi data dan informasi menggunakan <i>Library Flexdashboard R</i>. Studi literatur penelitian ini diperoleh melalui jurnal dan artikel ilmiah yang membahas tentang teknik visualisasi data dan pembuatan <i>dashboard</i> informasi.
   </p>
   <h4> B. Pengumpulan Data </h4>
   <p>
