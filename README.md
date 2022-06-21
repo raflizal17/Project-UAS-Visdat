@@ -138,7 +138,7 @@ Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor 
 <h3>5. Kesimpulan dan Saran</h3>
 <h4>A. Kesimpulan</h4>
   <ol>
-  <li>Informasi data indikator kemiskinan beserta visualisasi yang ditampilkan ke dalam dashboard meliputi:</li>
+  <li>Informasi data indikator kemiskinan beserta visualisasi yang ditampilkan ke dalam <i>dashboard</i> meliputi:</li>
     <ul>
       <li>Jumlah penduduk miskin Indonesia tahun 2011-2021 (<i>line chart</i>).</li>
       <li>Persentase penduduk miskin Indonesia pada bulan September 2021 (<i>simple text chart</i>).</li>
@@ -154,8 +154,8 @@ Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor 
       <li>Indeks gini berdasarkan klasifikasi wilayah menurut provinsi di Indonesia (<i>stacked horizontal bar chart</i>).</li>
       <li>Persentase penduduk miskin menurut provinsi di Indonesia tahun 2011-2021 (tabular dan <i>line chart</i>).</li>
     </ul>
-  <li>Dashboard informasi profil kemiskinan di Indonesia tahun 2021 berhasil dibuat sesuai sesuai desain melalui beberapa tahapan perancangan dan diakhiri dengan mempublikasikan pada server Github pribadi. Halaman dashboard dapat diakses melalui tautan atau link berikut ini: https://raflizal17.github.io/Project-UAS-Visdat/</li>
-  <li>Berdasarkan hasil survei pengujian evaluasi pada dashboard menggunakan pengukuran System Usability Scale (SUS) diperoleh nilai rata-rata skor SUS sebesar 76,88. Skor SUS tersebut masuk ke dalam kategori <i>acceptable, excellent</i>, dan <i>grade</i> B.</li>
+  <li><i>Dashboard</i> informasi profil kemiskinan di Indonesia tahun 2021 berhasil dibuat sesuai sesuai desain melalui beberapa tahapan perancangan dan diakhiri dengan mempublikasikannya pada server Github pribadi. Halaman <i>dashboard</i> dapat diakses melalui tautan atau link berikut ini: https://raflizal17.github.io/Project-UAS-Visdat/</li>
+  <li>Berdasarkan hasil survei pengujian evaluasi pada <i>dashboard</i> menggunakan pengukuran System Usability Scale (SUS) diperoleh nilai rata-rata skor SUS sebesar 76,88. Skor SUS tersebut masuk ke dalam kategori <i>acceptable, excellent</i>, dan <i>grade</i> B.</li>
   </ol>
   
  <h4>B. Saran </h4>
