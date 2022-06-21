@@ -12,7 +12,7 @@
   
 <h3>2. Tujuan Penelitian</h3>
   <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penelitian ini memiliki dua tujuan yaitu: (1) membuat visualisasi dari hasil publikasi data yang dirilis oleh BPS terkait profil kemiskinan di Indonesia tahun 2021 dengan memanfaatkan berbagai library visualisasi data di R; (2) membangun <i>dashboard</i> informasi sebagai wadah penyajian data dan informasi mengenai profil kemiskinan di Indonesia tahun 2021 dengan menggunakan <i>Library Flexdashboard R</i> yang berbasis web responsif; dan (3) melakukan evaluasi terhadap dashboard informasi yang telah dibuat dengan menggunakan pengukuran <i>System User Scalabilty</i>(SUS)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penelitian ini memiliki dua tujuan yaitu: (1) membuat visualisasi dari hasil publikasi data yang dirilis oleh BPS terkait profil kemiskinan di Indonesia tahun 2021 dengan memanfaatkan berbagai <i>library</i> visualisasi data di R; (2) membangun <i>dashboard</i> informasi sebagai wadah penyajian data dan informasi mengenai profil kemiskinan di Indonesia tahun 2021 dengan menggunakan <i>Library Flexdashboard R</i> yang berbasis web responsif; dan (3) melakukan evaluasi terhadap dashboard informasi yang telah dibuat dengan menggunakan pengukuran <i>System User Scalabilty</i>(SUS)
   </p>
   
 <h3>3. Metode Penelitian</h3>
